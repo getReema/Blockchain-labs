@@ -1,0 +1,33 @@
+Start in browser console.log("Hello World");
+- what is console.log(), and why we can run JS in browser inspect tab? ES6 enviroment in general. 
+
+Moving to NPM, we will aquire the JS running enviroment locally. is it installed?
+- quick intro to NPM what capability it provides, why do we need it? what its alternative in other programming languages that they know?
+- let's list the commands that we will frequently need and keep it for later.
+
+what shell we need to run the code? I used to have issue with that. depends on the machine as well
+
+create workspace(folder) for the JS starter project, and open it in visual studio code. 
+create index.js file, and write the same console.log() message in it. 
+Run the code. 
+Notice the node_modules, why we need done modules. package json also.
+commands we can add in packag.json .
+
+next: 
+variables
+if-else
+functions, let's pick multiple syntaxes for functions. 
+classess
+create instance from the class
+constrcutors 
+functions inside classes. 
+
+Additional: let's check a library in NPM website and download it. How to search, how to use? 
+additional: chatgpt. 
+
+
+
+
+
+
+
